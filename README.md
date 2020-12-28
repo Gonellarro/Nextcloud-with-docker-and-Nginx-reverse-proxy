@@ -162,5 +162,5 @@ Now it's ready to be accessed, but Nextcloud has to recognize them as an externa
 4. At the left panel, go to *Administrations/External Storage*
 5. Add a new external storage, fill in the blanks: Name, Local, No auth, /home/Documents, user
 6. Repeat for every share you want. At this point, I need to highlight, that the folder that Nextcloud access is /home/Documents, that it's inside the docker instance. Remember we are working with docker, so we have to make links between the real data and docker data.
-   ![image-20201228160408565](C:\Users\marti\AppData\Roaming\Typora\typora-user-images\image-20201228160408565.png)
+
 
