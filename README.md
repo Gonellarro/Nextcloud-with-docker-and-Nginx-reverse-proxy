@@ -1,4 +1,4 @@
-# Installation NextCloud with docker using Ngnix as reverse proxy
+# Installation NextCloud with docker using Nginx as reverse proxy
 
 
 
@@ -9,8 +9,8 @@
 - Ubuntu Server (version 20.20 used)
 - Docker installation (snap default installation)
 - Docker compose installation
-- ngnix reverse proxy (used) with letsencrypt and host domain (duckdns.org used)
-- Network from ngnix reverse proxy from docker-compose (proxy_net used )
+- nginx reverse proxy (used) with letsencrypt and host domain (duckdns.org used)
+- Network from nginx reverse proxy from docker-compose (proxy_net used )
 
 
 
